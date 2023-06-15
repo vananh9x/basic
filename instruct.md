@@ -21,3 +21,7 @@
     git branch: gọi nhánh mặc định master
 
     git checkout -b{branch name} : create a new branch
+
+    git merge {branch name}
+
+    
