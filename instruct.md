@@ -1,9 +1,12 @@
 # Terms
-    1. Repo: Kho lưu trữ source code
+    Repo: Kho lưu trữ source code
 
-    branch: nhánh 
+    Branch: nhánh 
 
-    Conflict: xung dot code khi sua tren cung 1 file
+    Local
+
+    Remote
+
 
 # Command
     git init : tạo repo cho dự án
@@ -27,4 +30,9 @@
 
     git merge {branch name}
 
-    git branch -d {brand name} xoa brand
+    git branch -d {branch name}
+
+    git push - day code tu local repo len remote repo
+
+    
+Git & Github
