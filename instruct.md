@@ -20,4 +20,4 @@
 
     git branch: gọi nhánh mặc định master
 
-    git checkout -b{branch name}
+    git checkout -b{branch name} : create a new branch
