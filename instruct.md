@@ -2,6 +2,9 @@
     1. Repo: Kho lưu trữ source code
 
     branch: nhánh 
+
+    Conflict: xung dot code khi sua tren cung 1 file
+
 # Command
     git init : tạo repo cho dự án
     git status- trạng thái dự án
@@ -24,4 +27,4 @@
 
     git merge {branch name}
 
-    
+    git branch -d {brand name} xoa brand
